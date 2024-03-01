@@ -10,3 +10,7 @@
 
 ### Api
 [JSONBIN](https://api.jsonbin.io/v3/b/65e1dc8a266cfc3fde919313)
+
+### Quick start
+- `npm i`
+- `npm start`
